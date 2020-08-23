@@ -1,8 +1,8 @@
-##Uruchamiane na:
+## Uruchamiane na:
     Sytem operacyjny: Ubuntu 18.04.2 LTS x64
     Przegladarka Chrome v. 68.0.3440.106 (64 bitowa)
 
-##Wymagane:
+## Wymagane:
     Przeglądarka Chrome wersja 68
     IntelliJ
     Gradle
